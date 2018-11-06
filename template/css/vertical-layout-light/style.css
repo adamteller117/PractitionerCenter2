@@ -8675,7 +8675,7 @@
   --gray-lighter: #e8eff4;
   --gray-lightest: #e6e9ed;
   --black: #000000;
-  --primary: #44519e;
+  --primary: #0065A4;
   --secondary: #a3a4a5;
   --success: #0acf97;
   --info: #4d7cff;
@@ -27167,7 +27167,7 @@ div.tagsinput span.tag a {
   font-size: 1.125rem;
   line-height: 1;
   margin-right: 1.125rem;
-  color: #44519e;
+  color: #555;
 }
 
 .rtl .sidebar .nav .nav-item .nav-link i.menu-icon {
@@ -27240,7 +27240,7 @@ div.tagsinput span.tag a {
 .sidebar .nav .nav-item.active > .nav-link i,
 .sidebar .nav .nav-item.active > .nav-link .menu-title,
 .sidebar .nav .nav-item.active > .nav-link .menu-arrow {
-  color: #44519e;
+  color: #555;
 }
 
 .sidebar .nav:not(.sub-menu) {
@@ -27378,7 +27378,7 @@ div.tagsinput span.tag a {
 }
 
 .navbar .navbar-brand-wrapper {
-  background: #ffffff;
+  background: #0065A4;
   transition: width 0.25s ease, background 0.25s ease;
   -webkit-transition: width 0.25s ease, background 0.25s ease;
   -moz-transition: width 0.25s ease, background 0.25s ease;
@@ -27426,7 +27426,7 @@ div.tagsinput span.tag a {
 }
 
 .navbar .navbar-menu-wrapper {
-  background: #44519e;
+  background: #0065A4;
   transition: width 0.25s ease;
   -webkit-transition: width 0.25s ease;
   -moz-transition: width 0.25s ease;
@@ -27710,7 +27710,7 @@ div.tagsinput span.tag a {
 }
 
 .navbar.navbar-primary .navbar-menu-wrapper {
-  background: #44519e;
+  background: #555;
 }
 
 .navbar.navbar-primary:not(.navbar-light) .navbar-menu-wrapper .navbar-toggler {

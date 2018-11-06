@@ -8675,7 +8675,7 @@
   --gray-lighter: #e8eff4;
   --gray-lightest: #e6e9ed;
   --black: #000000;
-  --primary: #44519e;
+  --primary: #0065A4;
   --secondary: #a3a4a5;
   --success: #0acf97;
   --info: #4d7cff;
@@ -15218,7 +15218,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #44519e !important;
+  background-color: #0065A4 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -27113,7 +27113,7 @@ div.tagsinput span.tag a {
 
 .horizontal-menu .top-navbar {
   font-weight: 400;
-  background: #44519e;
+  background: #0065A4;
   border-bottom: 1px solid #f3f3f3;
 }
 
@@ -27420,7 +27420,7 @@ div.tagsinput span.tag a {
   width: 6px;
   height: 6px;
   border-radius: 100%;
-  background: #fc5661;
+  background: #0065A4;
   top: -2px;
 }
 
