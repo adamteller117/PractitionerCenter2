@@ -27256,8 +27256,8 @@ div.tagsinput span.tag a {
 }
 
 .sidebar .nav:not(.sub-menu) > .nav-item:hover > .nav-link {
-  background: #f6f7fb;
-  color: #56595a;
+  background: #F78E1E;
+  color: black;
 }
 
 .sidebar .nav.sub-menu {
@@ -27324,7 +27324,7 @@ div.tagsinput span.tag a {
 }
 
 .sidebar-dark .sidebar .nav:not(.sub-menu) > .nav-item:hover > .nav-link {
-  background: #59606b;
+  background: #F78E1E;
   color: #d0cfcf;
 }
 
@@ -27342,7 +27342,7 @@ div.tagsinput span.tag a {
 }
 
 .sidebar-dark .sidebar .nav.sub-menu .nav-item .nav-link:hover {
-  color: #9a94a7;
+  color: #F78E1E;
 }
 
 .sidebar-dark .sidebar .nav.sub-menu .nav-item:hover {
